@@ -1,0 +1,8 @@
+# Git is a distributed version control system.
+# Important Commands: 
+	git init : initialize git in the folder.
+	git clone : Clone repository from github to local machine.
+	git add : Add untrack file to stage.
+	git commit : Add staged file to tracked file.
+	git status : tells the status of track and untracked items.
+	git checkout -b test : creates a new branch named as test.
